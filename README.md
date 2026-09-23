@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kushal-jayarama
 - 👀 I’m interested in fullstack development 
-- 🌱 I’m currently learning android studio
 - 📫 How to reach me ✉ kushaljayaram2001@gmail.com 
 
 <!---
